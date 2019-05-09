@@ -5,9 +5,11 @@ const Contact = () => (
     <div className="columns">
       <div className="column is-one-third">
         <span className="contact-text">
-          <h1>CONTACT</h1>
-          <p>CONTACT </p>
+          <h2>CONTACT</h2>
         </span>
+        <div className="contact-body">
+          <p>Contact text if its necessary, I dont know. </p>
+        </div>
       </div>
 
       <div className="column is-three-quarters">
@@ -23,6 +25,7 @@ const Contact = () => (
                   <div className="control-group">
                     <div className="form-group">
                       <input
+                        required="true"
                         type="text"
                         className="input"
                         placeholder="Your Name"
@@ -38,6 +41,7 @@ const Contact = () => (
                   <div className="control-group">
                     <div className="form-group">
                       <input
+                        required="true"
                         type="email"
                         className="input"
                         placeholder="Your Email"

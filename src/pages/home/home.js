@@ -1,6 +1,16 @@
 import React from "react";
-import Navbar from "./navbar";
 
-const Home = () => <Navbar />;
+const Home = () => (
+  <React.Fragment>
+    <div className="fenceImg">
+      <img
+        src={require("../../assets/fence.png")}
+        className="fence1"
+        style={{ height: "200px" }}
+      />
+    </div>
+    <div className="home-logo">Picket Fence Entertainment</div>
+  </React.Fragment>
+);
 
 export default Home;

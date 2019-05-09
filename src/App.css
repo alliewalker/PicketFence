@@ -11,3 +11,9 @@ nav {
 footer {
   font-size: 11px;
 }
+
+h2 {
+  /* font-family: "Major Mono Display", monospace; */
+  font-family: "Playfair Display", serif;
+  /* font-family: "Prata", serif; */
+}

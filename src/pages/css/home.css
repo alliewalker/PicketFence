@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  height: 100vh;
+}
+
+.fenceImg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20vh;
+}
+
+.home-logo {
+  text-align: center;
+  color: whitesmoke;
+}
