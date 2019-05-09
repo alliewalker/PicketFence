@@ -1,3 +1,13 @@
 .body {
   background-color: black;
+  font-size: 20px;
+}
+
+nav {
+  font-family: "Major Mono Display", monospace;
+  color: whitesmoke;
+}
+
+footer {
+  font-size: 11px;
 }

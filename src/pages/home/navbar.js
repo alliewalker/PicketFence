@@ -1,19 +1,23 @@
 import React, { Component } from "react";
-import { Route, Link, Switch } from "react-router-dom";
 import "../../App.css";
-import Contact from "../contact";
+import "./main";
 
 class Navbar extends Component {
   render() {
     return (
       <div className="navbar">
         <nav
-          className="navbar is-dark is-fixed-top"
+          className="navbar is-black is-fixed-top"
           role="navigation"
           aria-label="main navigation"
         >
           <div className="navbar-brand">
             <a className="navbar-item" href="/home" id="homePage">
+              <img
+                src={require("../../assets/fence.png")}
+                className="fence"
+                style={{ height: "300px" }}
+              />
               Picket Fence Entertainment
             </a>
 
@@ -30,13 +34,13 @@ class Navbar extends Component {
           </div>
           <div className="navbar-end">
             <div className="navbar-item">
-              <a className="contact" href="/contact">
+              <a className="contact" href="/contact" style={{ color: "white" }}>
                 Contact
               </a>
             </div>
 
             <div className="navbar-item">
-              <a className="About" href="/about">
+              <a className="About" href="/about" style={{ color: "white" }}>
                 About
               </a>
             </div>
