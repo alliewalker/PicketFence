@@ -13,4 +13,6 @@ body {
 .home-logo {
   text-align: center;
   color: whitesmoke;
+  font-family: "Major Mono Display", monospace;
+  margin-top: 10px;
 }

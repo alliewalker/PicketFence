@@ -4,9 +4,9 @@ const Contact = () => (
   <React.Fragment>
     <div className="columns">
       <div className="column is-one-third">
-        <span className="contact-text">
-          <h2>CONTACT</h2>
-        </span>
+        <div className="contact-text">
+          <h2>Contact</h2>
+        </div>
         <div className="contact-body">
           <p>Contact text if its necessary, I dont know. </p>
         </div>
@@ -54,7 +54,7 @@ const Contact = () => (
                     </div>
                   </div>
 
-                  <div className="control-group">
+                  <div className="control-group" id="messageBox">
                     <div className="form-group">
                       <textarea
                         className="input"

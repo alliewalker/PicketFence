@@ -19,14 +19,18 @@
   color: whitesmoke;
   position: relative;
   top: 80px;
-  left: 30px;
-  font-size: 30px;
+  left: 60px;
+  font-size: 35px;
 }
 
 .contact-body {
   color: whitesmoke;
   position: relative;
   top: 80px;
-  left: 30px;
+  left: 60px;
   font-size: 10px;
+}
+
+#message.input {
+  height: 90px;
 }

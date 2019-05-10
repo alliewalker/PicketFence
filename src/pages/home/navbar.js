@@ -13,7 +13,7 @@ class Navbar extends Component {
           <div className="navbar-brand">
             <a className="navbar-item" href="/home" id="homePage">
               <img
-                src={require("../../assets/fence.png")}
+                src={require("../../assets/fence-white.png")}
                 className="fence"
                 style={{ height: "300px" }}
               />
