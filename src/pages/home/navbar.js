@@ -19,7 +19,6 @@ class Navbar extends Component {
               />
               Picket Fence Entertainment
             </a>
-
             <a
               role="button"
               className="navbar-burger"
@@ -37,14 +36,12 @@ class Navbar extends Component {
                 Contact
               </a>
             </div>
-
             <div className="navbar-item">
               <a className="About" href="/about" style={{ color: "white" }}>
                 About
               </a>
             </div>
           </div>
-
           <div />
         </nav>
       </div>

@@ -14,6 +14,7 @@ class App extends Component {
     return (
       <div className="body">
         <Navbar />
+
         <Router>
           <Switch>
             <Route exact path="/home">
