@@ -8,7 +8,7 @@ const Contact = () => (
           <h2>Contact</h2>
         </div>
         <div className="contact-body">
-          <p>Contact text if its necessary, I dont know. </p>
+          <p>&nbsp; Contact text if its necessary, I dont know. </p>
         </div>
       </div>
 
