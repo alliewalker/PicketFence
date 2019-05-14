@@ -9,16 +9,14 @@ class About extends Component {
         <div className="columns">
           <div className="column is-one-third">
             <p>
-              Graecis admodum ex cum, qui ex falli efficiantur. Est id veniam
-              apeirian perpetua, ex mei nusquam gloriatur. Cu his iudico decore,
-              ut solum vocent eloquentiam vim, mea tale persius dignissim ea. No
-              est prompta omnesque reprehendunt. Eu eum ludus dicunt omittam.
-              Congue vocibus sed in, in qui brute mundi. Munere omnium
-              definitiones qui an, his te luptatum pericula scribentur. Mea ad
-              dicta ignota nominavi. Omnes inermis pri no, graeco fierent
-              principes ex vix. Falli timeam cum ex. Nisl consul facilisi vis
-              id, erat pertinacia ei est. Dico vulputate argumentum cu eam, id
-              solum recteque vel, quo te veri falli appetere.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non
+              efficitur leo, eget efficitur turpis. Vivamus tincidunt lobortis
+              enim id semper. Sed efficitur felis eu justo pellentesque, at
+              dapibus lorem eleifend. Cras elit sapien, eleifend eu facilisis
+              sit amet, accumsan at mauris. Sed tempus nulla sit amet quam
+              ornare, nec congue diam semper. Nullam placerat dapibus tincidunt.
+              Quisque tristique, nisi et malesuada aliquam, purus ante
+              consectetur purus, in efficitur magna arcu euismod arcu.
             </p>
           </div>
           <div className="column is-one-third">

@@ -5,10 +5,27 @@ const Contact = () => (
     <div className="columns">
       <div className="column is-one-third">
         <div className="contact-text">
-          <h2>Contact</h2>
+          <h2>Contact us</h2>
         </div>
         <div className="contact-body">
-          <p>&nbsp; Contact text if its necessary, I dont know. </p>
+          <br />
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non
+            efficitur leo, eget efficitur turpis. Vivamus tincidunt lobortis
+            enim id semper. Sed efficitur felis eu justo pellentesque, at
+            dapibus lorem eleifend. Cras elit sapien, eleifend eu facilisis sit
+            amet, accumsan at mauris. Sed tempus nulla sit amet quam ornare, nec
+            congue diam semper. Nullam placerat dapibus tincidunt. Quisque
+            tristique, nisi et malesuada aliquam, purus ante consectetur purus,
+            in efficitur magna arcu euismod arcu. Nullam mauris justo, egestas
+            et quam non, fermentum consequat ante. Sed ex enim, dictum vel metus
+            vel, egestas tempor nisi. Nullam eget lorem neque. Integer sit amet
+            sagittis metus, id venenatis est. Integer sit amet massa pharetra,
+            congue est lacinia, efficitur enim. Donec nec elit a purus dignissim
+            fermentum. Nunc auctor ac nisl in porttitor. Vestibulum ultricies
+            eleifend libero sit amet venenatis. In eget leo nec diam lobortis
+            faucibus.{" "}
+          </p>
         </div>
       </div>
 

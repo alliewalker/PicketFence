@@ -4,9 +4,9 @@ const Home = () => (
   <React.Fragment>
     <div className="fenceImg">
       <img
-        src={require("../../assets/fence-white.png")}
+        src={require("../../assets/a-fence.jpg")}
         className="fence1"
-        style={{ height: "200px" }}
+        style={{ height: "250px" }}
       />
     </div>
     <div className="home-logo">Picket Fence Entertainment</div>
