@@ -4,7 +4,7 @@ const Home = () => (
   <React.Fragment>
     <div className="fenceImg">
       <img
-        src={require("../../assets/a-fence.jpg")}
+        src={require("../../assets/fence.jpg")}
         className="fence1"
         style={{ height: "250px" }}
       />
